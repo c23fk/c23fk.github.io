@@ -1,0 +1,13 @@
+body{
+	background-color: red;
+	background-image: url("./dog.png");
+
+}
+#Hello{
+	height: 65px;
+	font-size: 50px;
+	text-align: center;
+}
+#Hello:hover{
+	background-color:orange; 
+}
