@@ -1,6 +1,5 @@
 body{
-	background-color: red;
-	background-image: url("./dog.png");
+	background-color: lightblue;
 
 }
 #Hello{
@@ -10,4 +9,7 @@ body{
 }
 #Hello:hover{
 	background-color:orange; 
+}
+ul {
+	font-size: 40px;	
 }
